@@ -37,4 +37,4 @@ To-do
 ![](src/main/webapp/image/image.png)
 
 Create todo
-![](src/main/webapp/image/image(1).jpg)
+![](src/main/webapp/image/image(1).png)
