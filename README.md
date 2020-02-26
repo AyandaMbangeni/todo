@@ -34,7 +34,7 @@ Then visit http://localhost:8080
 # Mark-down
 
 To-do
-![](src/main/webapp/image/photo-6.png)
+![](src/main/webapp/image/image.png)
 
 Create todo
-![](src/main/webapp/image/photo-7.jpg)
+![](src/main/webapp/image/image(1).jpg)
