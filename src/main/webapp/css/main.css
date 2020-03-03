@@ -1,9 +1,10 @@
 body
 {
-background-image: url("/image/photo-6.png");
+background-image: url("/image/photo-7.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 text-align: center;
+
 }
 .navbar{
 background-color:black;
@@ -28,4 +29,6 @@ h4{
 background-color: black;
 font-family: Helvetica, Arial, sans-serif;
 font-size: 100%;
+text-color: white;
 text-align: center;
+}
